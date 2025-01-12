@@ -46,3 +46,6 @@
   <li>Разработка сервиса по выдаче рекомендаций с помощью фреймворка FastAPI</li>
   <li>Разработка сервиса a/b тестирования ml-моделей в рамказ данного проекта</li>
 </ul>
+<p>Стек: pandas, seaborn, fastapi, pydantic, scikit-learn, catboost, postgresql</p>
+<hr>
+<p>Буду рад сотрудничеству: <a href="https://t.me/alex_smol"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" /></a></p>
